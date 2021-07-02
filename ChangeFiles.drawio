@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T03:44:38.019Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="jJRVU0inycVda3zxi-qn" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-02T03:52:44.183Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="JkidlZcxhMZrb3eWdIse" version="14.8.3" type="github">
   <diagram id="K0j5OCTELVZv-EC5O6D2" name="Page-1">
     <mxGraphModel dx="855" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,29 +13,35 @@
         <mxCell id="yJGauPnEhfRK39gL0J9s-27" value="Post Disbursement&amp;nbsp;&lt;br&gt;Changes" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/computing-technology/90/Cloud_storage-RAD-128.png;fillColor=#CCFF99;" vertex="1" parent="1">
           <mxGeometry x="260" y="410" width="128" height="128" as="geometry" />
         </mxCell>
-        <mxCell id="yJGauPnEhfRK39gL0J9s-29" value="07 - Loan Period" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#B9E0A5;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="yJGauPnEhfRK39gL0J9s-29" value="07 - Loan Period" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#D4E1F5;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="400" y="218" width="80" height="92" as="geometry" />
         </mxCell>
         <mxCell id="yJGauPnEhfRK39gL0J9s-30" value="08 = Loan Cancel/&amp;nbsp;&lt;br&gt;Reinstate" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#B9E0A5;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="520" y="218" width="80" height="92" as="geometry" />
+          <mxGeometry x="500" y="218" width="80" height="92" as="geometry" />
         </mxCell>
         <mxCell id="yJGauPnEhfRK39gL0J9s-31" value="09 - Disb&lt;br&gt;Cancel/ Change" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#B9E0A5;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="630" y="218" width="80" height="92" as="geometry" />
+          <mxGeometry x="590" y="218" width="80" height="92" as="geometry" />
         </mxCell>
         <mxCell id="yJGauPnEhfRK39gL0J9s-32" value="24 - Loan&amp;nbsp;&lt;br&gt;Increase" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#D4E1F5;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="730" y="218" width="80" height="92" as="geometry" />
+          <mxGeometry x="690" y="218" width="80" height="92" as="geometry" />
         </mxCell>
         <mxCell id="yJGauPnEhfRK39gL0J9s-33" value="02 - Borrower&lt;br&gt;Info" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#FFE599;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="400" y="337.2" width="80" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="yJGauPnEhfRK39gL0J9s-34" value="07-Loan&lt;br&gt;Period" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#FFE599;verticalAlign=middle;size=39;" vertex="1" parent="1">
+        <mxCell id="yJGauPnEhfRK39gL0J9s-34" value="07-Loan&lt;br&gt;Period" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#D4E1F5;verticalAlign=middle;size=39;" vertex="1" parent="1">
           <mxGeometry x="400" y="458" width="80" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="yJGauPnEhfRK39gL0J9s-35" value="10 - Disbursement&lt;br&gt;Change" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#FFE599;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="500" y="458" width="80" height="92" as="geometry" />
+        <mxCell id="yJGauPnEhfRK39gL0J9s-35" value="10 - Disbursement&lt;br&gt;Change" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#FFB570;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="510" y="458" width="80" height="92" as="geometry" />
         </mxCell>
-        <mxCell id="yJGauPnEhfRK39gL0J9s-36" value="11- Post&amp;nbsp;&lt;br&gt;Disbursement&lt;br&gt;Refund" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#FFE599;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="600" y="458" width="80" height="92" as="geometry" />
+        <mxCell id="yJGauPnEhfRK39gL0J9s-36" value="11- Post&amp;nbsp;&lt;br&gt;Disbursement&lt;br&gt;Refund" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#FFB570;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="610" y="458" width="80" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="yJGauPnEhfRK39gL0J9s-38" value="12- Refund/&lt;br&gt;Correction" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#FFB570;verticalAlign=middle;size=39;" vertex="1" parent="1">
+          <mxGeometry x="400" y="570" width="80" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="yJGauPnEhfRK39gL0J9s-39" value="24 - Loan&amp;nbsp;&lt;br&gt;Increase" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#D4E1F5;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="710" y="458" width="80" height="92" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
