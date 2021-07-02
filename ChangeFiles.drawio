@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T02:34:17.187Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.8.3" etag="_usKjusfzYPNglnsFGBJ" type="github"><diagram id="K0j5OCTELVZv-EC5O6D2">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-07-02T02:36:07.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="BtploTaXZkEr7zzRP2Pp" version="14.8.3" type="github">
+  <diagram id="K0j5OCTELVZv-EC5O6D2" name="Page-1">
+    <mxGraphModel dx="909" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="yJGauPnEhfRK39gL0J9s-1" value="" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/School_Building.svg;" vertex="1" parent="1">
+          <mxGeometry x="50" y="190" width="69.24" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
