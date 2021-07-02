@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T04:21:57.672Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="Wfvl9_bpN8vZy1ZGtmnL" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-02T04:22:41.502Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="2Poc0zPaJU4az0MT1E7J" version="14.8.3" type="github">
   <diagram id="K0j5OCTELVZv-EC5O6D2" name="Page-1">
     <mxGraphModel dx="1365" dy="680" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="yJGauPnEhfRK39gL0J9s-20" value="School/ Cda" style="points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/buildings/School_Building.svg;labelBackgroundColor=white;fillColor=#FFFF99;" vertex="1" parent="1">
           <mxGeometry x="50" y="494" width="100" height="101.09" as="geometry" />
         </mxCell>
-        <mxCell id="yJGauPnEhfRK39gL0J9s-29" value="07 - Loan Period" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#D4E1F5;verticalAlign=middle;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="yJGauPnEhfRK39gL0J9s-29" value="07 - Loan Period" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#FFF2CC;verticalAlign=middle;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="399" y="380" width="72" height="77" as="geometry" />
         </mxCell>
         <mxCell id="yJGauPnEhfRK39gL0J9s-30" value="08 = Loan Cancel/&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;Reinstate" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#B9E0A5;verticalAlign=middle;fontSize=11;" vertex="1" parent="1">
@@ -16,13 +16,13 @@
         <mxCell id="yJGauPnEhfRK39gL0J9s-31" value="09 - Disb&lt;br style=&quot;font-size: 11px;&quot;&gt;Cancel/ Change" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#B9E0A5;verticalAlign=middle;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="582" y="380" width="72" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="yJGauPnEhfRK39gL0J9s-32" value="24 - Loan&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;Increase" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#D4E1F5;verticalAlign=middle;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="yJGauPnEhfRK39gL0J9s-32" value="24 - Loan&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;Increase" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#FFF2CC;verticalAlign=middle;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="670" y="380" width="72" height="77" as="geometry" />
         </mxCell>
         <mxCell id="yJGauPnEhfRK39gL0J9s-33" value="02 - Borrower&lt;br style=&quot;font-size: 11px;&quot;&gt;Info" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#FFE599;verticalAlign=middle;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="399" y="499.2" width="72" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="yJGauPnEhfRK39gL0J9s-34" value="07-Loan&lt;br style=&quot;font-size: 11px;&quot;&gt;Period" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#D4E1F5;verticalAlign=middle;size=39;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="yJGauPnEhfRK39gL0J9s-34" value="07-Loan&lt;br style=&quot;font-size: 11px;&quot;&gt;Period" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#FFF2CC;verticalAlign=middle;size=39;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="399" y="620" width="72" height="77" as="geometry" />
         </mxCell>
         <mxCell id="yJGauPnEhfRK39gL0J9s-35" value="10 - Disbursement&lt;br style=&quot;font-size: 11px;&quot;&gt;Change" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#FFB570;verticalAlign=middle;fontSize=11;" vertex="1" parent="1">
@@ -34,7 +34,7 @@
         <mxCell id="yJGauPnEhfRK39gL0J9s-38" value="12- Refund/&lt;br style=&quot;font-size: 11px;&quot;&gt;Correction" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#FFB570;verticalAlign=middle;size=39;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="399" y="732" width="72" height="77" as="geometry" />
         </mxCell>
-        <mxCell id="yJGauPnEhfRK39gL0J9s-39" value="24 - Loan&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;Increase" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#D4E1F5;verticalAlign=middle;fontSize=11;" vertex="1" parent="1">
+        <mxCell id="yJGauPnEhfRK39gL0J9s-39" value="24 - Loan&amp;nbsp;&lt;br style=&quot;font-size: 11px;&quot;&gt;Increase" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;labelBackgroundColor=white;fillColor=#FFF2CC;verticalAlign=middle;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="670" y="620" width="72" height="77" as="geometry" />
         </mxCell>
         <mxCell id="yJGauPnEhfRK39gL0J9s-40" value="Pre Disbursement&lt;br&gt;Changes" style="outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#277116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.file_system;labelBackgroundColor=white;" vertex="1" parent="1">
@@ -76,7 +76,7 @@
         <mxCell id="yJGauPnEhfRK39gL0J9s-52" value="CommonLineException" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;labelBackgroundColor=white;fontSize=11;fillColor=#E6E6E6;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="500" y="517.7" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="yJGauPnEhfRK39gL0J9s-53" value="ChangeFile&lt;br&gt;Response" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=white;fontSize=11;fillColor=#FF6666;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="yJGauPnEhfRK39gL0J9s-53" value="ChangeFile&lt;br&gt;Response" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;labelBackgroundColor=white;fontSize=11;fillColor=#99CCFF;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1040" y="504.00000000000006" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yJGauPnEhfRK39gL0J9s-55" value="" style="endArrow=classic;html=1;fontSize=11;" edge="1" parent="1" source="yJGauPnEhfRK39gL0J9s-53">
