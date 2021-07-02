@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-02T17:15:28.114Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="FXHIrmozB4RRYOT8TrkM" version="14.8.3" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-02T17:16:54.196Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="sYZuIgKxTpL55NEbzomc" version="14.8.3" type="github">
   <diagram id="K0j5OCTELVZv-EC5O6D2" name="Page-1">
     <mxGraphModel dx="1512" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1500" pageHeight="1500" math="0" shadow="0">
       <root>
@@ -63,15 +63,15 @@
         </mxCell>
         <mxCell id="yJGauPnEhfRK39gL0J9s-48" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=11;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="562" y="309" as="sourcePoint" />
-            <mxPoint x="562" y="259" as="targetPoint" />
+            <mxPoint x="630" y="315" as="sourcePoint" />
+            <mxPoint x="630" y="265" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yJGauPnEhfRK39gL0J9s-49" value="Validation of&amp;nbsp;&lt;br&gt;program rules" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=white;fontSize=11;fillColor=#FF6666;verticalAlign=middle;size=30;position=0.08;position2=0;" parent="1" vertex="1">
-          <mxGeometry x="700" y="80" width="120" height="80" as="geometry" />
+        <mxCell id="yJGauPnEhfRK39gL0J9s-49" value="Validation of&amp;nbsp;&lt;br&gt;program rules" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;labelBackgroundColor=white;fontSize=11;fillColor=#FF6666;verticalAlign=middle;size=30;position=0.08;position2=1;" parent="1" vertex="1">
+          <mxGeometry x="471" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yJGauPnEhfRK39gL0J9s-51" value="Implementation&amp;nbsp;&lt;br&gt;and/or&lt;br&gt;Disbursement Service" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.endpoints;fillColor=#F58534;gradientColor=none;labelBackgroundColor=white;fontSize=11;" parent="1" vertex="1">
-          <mxGeometry x="640" y="150" width="69" height="72" as="geometry" />
+          <mxGeometry x="610" y="138" width="69" height="72" as="geometry" />
         </mxCell>
         <mxCell id="yJGauPnEhfRK39gL0J9s-52" value="CommonLineException" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;labelBackgroundColor=white;fontSize=11;fillColor=#E6E6E6;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="500" y="517.7" width="150" height="40" as="geometry" />
@@ -156,6 +156,7 @@
             <mxPoint x="720" y="200" as="sourcePoint" />
             <mxPoint x="1034" y="360" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="645" y="220" />
               <mxPoint x="1035" y="220" />
               <mxPoint x="1035" y="360" />
             </Array>
@@ -170,12 +171,12 @@
           <mxGeometry x="1150" y="480" width="150" height="57" as="geometry" />
         </mxCell>
         <mxCell id="4tAncuZE_6ZeGIsPpg4A-7" value="ChangeFileAccepted" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.rectCallout;dx=30;dy=15;boundedLbl=1;labelBackgroundColor=white;fontSize=11;fillColor=#E6E6E6;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="728" y="330" width="180" height="40" as="geometry" />
+          <mxGeometry x="720" y="320" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4tAncuZE_6ZeGIsPpg4A-12" value="" style="shape=flexArrow;endArrow=classic;html=1;fontSize=11;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="760" y="310" as="sourcePoint" />
-            <mxPoint x="760" y="260" as="targetPoint" />
+            <mxPoint x="720" y="310" as="sourcePoint" />
+            <mxPoint x="720" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4tAncuZE_6ZeGIsPpg4A-16" value="" style="endArrow=classic;html=1;fontSize=11;exitX=-0.002;exitY=0.57;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.327;entryY=0.653;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yJGauPnEhfRK39gL0J9s-66" target="4tAncuZE_6ZeGIsPpg4A-7">
@@ -215,13 +216,12 @@
         <mxCell id="4tAncuZE_6ZeGIsPpg4A-22" value="&lt;p style=&quot;line-height: 0%&quot;&gt;&lt;span&gt;ChangeFileProcessed event&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;will contain entire recordset for borrower&lt;/p&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=left;" vertex="1" parent="1">
           <mxGeometry x="340" y="260" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4tAncuZE_6ZeGIsPpg4A-24" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontSize=9;" edge="1" parent="1">
+        <mxCell id="4tAncuZE_6ZeGIsPpg4A-24" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;fontSize=9;" edge="1" parent="1" source="yJGauPnEhfRK39gL0J9s-51">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="709" y="156.95" as="sourcePoint" />
             <mxPoint x="1409" y="470" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1409" y="149.95" />
-              <mxPoint x="1409" y="433.95" />
+              <mxPoint x="1409" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
